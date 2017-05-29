@@ -1,7 +1,11 @@
+# UNREAL GENNED FILES
 */Build
 */Binaries
 */DerivedDataCache
 */Intermediate
 */Saved
 BuildingEscape/Content/StarterContent/
-*.db
+
+# VS GENNED FILES
+*.VC.db
+
